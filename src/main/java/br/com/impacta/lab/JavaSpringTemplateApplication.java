@@ -1,7 +1,6 @@
 package br.com.impacta.lab;
 
-import java.util.ArrayList;
-import br.com.impacta.models.*;
+import br.com.impacta.models.Carro;
 
 public class JavaSpringTemplateApplication {
 
